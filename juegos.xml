@@ -1,0 +1,72 @@
+<Juegos>
+    <Juego precio="39,5">
+        <Titulo>Catán</Titulo>
+        <Dificultad>2,29</Dificultad>
+        <Puntuacion>7,1</Puntuacion>
+    </Juego>
+    <Juego precio="55">
+        <Titulo>Terra Mystica</Titulo>
+        <Dificultad>3,97</Dificultad>
+        <Puntuacion>8,1</Puntuacion>
+    </Juego>
+    <Juego precio="49,9">
+        <Titulo>Dune Imperium</Titulo>
+        <Dificultad>3,05</Dificultad>
+        <Puntuacion>8,4</Puntuacion>
+    </Juego>
+    <Juego precio="27">
+        <Titulo>Monopoly</Titulo>
+        <Dificultad>1,62</Dificultad>
+        <Puntuacion>4,4</Puntuacion>
+    </Juego>
+    <Juego precio="70">
+        <Titulo>Gloomhaven</Titulo>
+        <Dificultad>3,91</Dificultad>
+        <Puntuacion>8,6</Puntuacion>
+    </Juego>
+    <Juego precio="34,95">
+        <Titulo>Ticket to Ride</Titulo>
+        <Dificultad>1,83</Dificultad>
+        <Puntuacion>7,4</Puntuacion>
+    </Juego>
+    <Juego precio="18,9">
+        <Titulo>The Resistance: Avalon</Titulo>
+        <Dificultad>1,74</Dificultad>
+        <Puntuacion>7,5</Puntuacion>
+    </Juego>
+    <Juego precio="34,95">
+        <Titulo>Concordia</Titulo>
+        <Dificultad>2,99</Dificultad>
+        <Puntuacion>8,1</Puntuacion>
+    </Juego>
+    <Juego precio="59,95">
+        <Titulo>Gaia Project</Titulo>
+        <Dificultad>4,4</Dificultad>
+        <Puntuacion>8,4</Puntuacion>
+    </Juego>
+    <Juego precio="52">
+        <Titulo>Twilight Imperium</Titulo>
+        <Dificultad>4,33</Dificultad>
+        <Puntuacion>8,6</Puntuacion>
+    </Juego>
+    <Juego precio="30">
+        <Titulo>The Game of Life</Titulo>
+        <Dificultad>1,17</Dificultad>
+        <Puntuacion>4,4</Puntuacion>
+    </Juego>
+    <Juego precio="36">
+        <Titulo>Jumanji</Titulo>
+        <Dificultad>1,39</Dificultad>
+        <Puntuacion>4,4</Puntuacion>
+    </Juego>
+    <Juego precio="42">
+        <Titulo>Anastyr</Titulo>
+        <Dificultad>2,75</Dificultad>
+        <Puntuacion>2,8</Puntuacion>
+    </Juego>
+    <Juego precio="63,5">
+        <Titulo>Total War</Titulo>
+        <Dificultad>5</Dificultad>
+        <Puntuacion>3,3</Puntuacion>
+    </Juego>
+</Juegos>

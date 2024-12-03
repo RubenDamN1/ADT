@@ -1,0 +1,17 @@
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\ExamenTema1.exe.config
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\ExamenTema1.exe
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\ExamenTema1.pdb
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\Entidades.dll
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\Logica.dll
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\Persistencia.dll
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\Entidades.pdb
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\Logica.pdb
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\bin\Debug\Persistencia.pdb
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\obj\Debug\ExamenTema1.Properties.Resources.resources
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\obj\Debug\ExamenTema1.exe
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\obj\Debug\ExamenTema1.pdb
+D:\Usuarios\Ainhoa\Documentos\IesN1\ADT\codigo\ExamenTema1\ExamenTema1\obj\Debug\ExamenTema1.FormularioJuegos.resources
